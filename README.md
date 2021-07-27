@@ -38,3 +38,6 @@ such as erode, opening, closing,and sharpening.
 <img src="./base_digits/synthetic_digits/8/Georgia.ttf(10)(10)6.6.png" width=10% height=10%>
 <img src="./base_digits/synthetic_digits/9/Comic Sans MS.ttf(-2).png" width=10% height=10%>
 </p>
+
+## creating more digit representations using generative adversarial network  
+Taking the synthetic digits images that we created and feed tham into a gan to create more variance in our digit database.
