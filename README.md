@@ -22,7 +22,10 @@ Getting a bird eye view of the board and extacting the cells.
 </p>
 
 # Deep Learning  
-## first we create synthetic digits images 
+## first we create synthetic digits images  
+Creating 28x28 images of digit using pillow, and augmentating the data using OpenCv to create different representation of digits.  
+The augmentation includes different fonts, rotation and Morphological Transformations  
+such as erode, opening, closing,and sharpening.
 
 <p float="left">
 <img src="./base_digits/synthetic_digits/1/Comic Sans MS.ttf(4)(10)6.4.png" width=10% height=10%>
