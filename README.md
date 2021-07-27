@@ -18,5 +18,5 @@ Getting a bird eye view of the board and extacting the cells.
 <img src="./dataset/val/6/050.png" width=10% height=10%>
 <img src="./dataset/val/7/060.png" width=10% height=10%>
 <img src="./dataset/val/8/070.png" width=10% height=10%>
-<img src="./idataset/val/9/080.png" width=10% height=10%>
+<img src="./dataset/val/9/081.png" width=10% height=10%>
 </p>
