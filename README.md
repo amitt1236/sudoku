@@ -22,4 +22,16 @@ Getting a bird eye view of the board and extacting the cells.
 </p>
 
 # Deep Learning  
-## first we create a synthetic digits images using pillow python library (base_digit/digit_create.py)
+## first we create synthetic digits images 
+
+<p float="left">
+<img src="./base_digits/synthetic_digits/1/Comic Sans MS.ttf(4)(10)6.4.png" width=10% height=10%>
+<img src="./base_digits/synthetic_digits/2/Verdana.ttf(10)(10)1.2.png" width=10% height=10%>
+<img src="./base_digits/synthetic_digits/3/Arial.ttf(-10)(10)1.3.png" width=10% height=10%>
+<img src="./base_digits/synthetic_digits/4/Arial.ttf(-6)(10)6.2.png" width=10% height=10%>
+<img src="./base_digits/synthetic_digits/5/Arial.ttf(4)(10)6.4.png" width=10% height=10%>
+<img src="./base_digits/synthetic_digits/6/Arial.ttf(0)(0)1.1.png" width=10% height=10%>
+<img src="./base_digits/synthetic_digits/7/Arial.ttf(4)(10)6.2.png" width=10% height=10%>
+<img src="./base_digits/synthetic_digits/8/Georgia.ttf(10)(10)6.6.png" width=10% height=10%>
+<img src="./base_digits/synthetic_digits/9/Comic Sans MS.ttf(-2).png" width=10% height=10%>
+</p>
