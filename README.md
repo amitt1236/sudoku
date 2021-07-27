@@ -39,8 +39,8 @@ such as erode, opening, closing,and sharpening.
 <img src="./base_digits/synthetic_digits/9/Comic Sans MS.ttf(-2).png" width=10% height=10%>
 </p>
 
-## creating more digit representations using generative adversarial network  
-Taking the synthetic digits images that we created and feed tham into a gan to create more variance in our digit database.  
+## Expanding digit database using generative adversarial network  
+Taking the synthetic digits images that we created and feeding them into a gan to create more variance in our digit database.  
 
 <p float="left">
 <img src="./images/one.gif" width=30% height=30%>
