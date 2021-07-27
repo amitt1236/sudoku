@@ -49,5 +49,7 @@ Taking the synthetic digits images that we created and feeding them into a gan t
 </p>
 
 ## Training a Deep Learning Network on our newly created database  
-Using TensorFlow and a simple neural Network to classify digit
+Using TensorFlow and a simple neural Network to create a digit classifier.
+I didnt used mnist on purpose in order to expirment with GAN's.  
+At the end we got a comparable preforming model to the one trained on mnist.
 
