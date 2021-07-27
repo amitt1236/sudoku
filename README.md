@@ -48,3 +48,6 @@ Taking the synthetic digits images that we created and feeding them into a gan t
 <img src="./images/eight.gif" width=30% height=30%>
 </p>
 
+## Training a Deep Learning Network on our newly created database  
+Using TensorFlow and a simple neural Network to classify digit
+
