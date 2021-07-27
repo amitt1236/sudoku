@@ -20,3 +20,6 @@ Getting a bird eye view of the board and extacting the cells.
 <img src="./dataset/val/8/070.png" width=10% height=10%>
 <img src="./dataset/val/9/081.png" width=10% height=10%>
 </p>
+
+# Deep Learning  
+firstly we create a synthetic digits images using pillow python library. 
