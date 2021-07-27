@@ -22,4 +22,4 @@ Getting a bird eye view of the board and extacting the cells.
 </p>
 
 # Deep Learning  
-## firstly we create a synthetic digits images using pillow python library. 
+## first we create a synthetic digits images using pillow python library (base_digit/digit_create.py)
